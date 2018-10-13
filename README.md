@@ -4,7 +4,7 @@
 I can make a flashcard like app. Once the question is clicked the answer will appear and the question will disappear.  
 
 ### App Walk-though` 
-<img src="FlashCard1" width=200>
+<img src="FlashCard1.gif" width=200>
 
 ## Required
 - [x] Create New Project in Android Studio
